@@ -4,9 +4,8 @@ The Portfolio Tracker app enables users to monitor the performance of their stoc
 Built using MongoDB, Express, React, Node.
 
 
-## Video Demo and Screenshots
+## Screenshots
 
-Demo: https://youtu.be/f05D_Hy-H0Y
 
 
 Portfolio / Home Page
